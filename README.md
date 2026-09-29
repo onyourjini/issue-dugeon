@@ -6,3 +6,4 @@
 
 ## CSS
 - feat: making design section heading (46 min)
+- feat: making desing encounter and enemy (34 min)
